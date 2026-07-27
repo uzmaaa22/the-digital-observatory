@@ -1,1 +1,104 @@
+:root {
 
+    /* ==========================
+       BACKGROUNDS
+    ========================== */
+
+    --space-background: #020611;
+    --mission-background: #081321;
+
+    /* ==========================
+       SURFACES
+    ========================== */
+
+    --glass-surface: rgba(255, 255, 255, 0.05);
+    --panel-surface: rgba(8, 19, 33, 0.85);
+    --transparent-surface: transparent;
+
+    /* ==========================
+       LIGHT COLORS
+    ========================== */
+
+    --hologram-color: #42D8FF;
+    --signal-color: #67C7FF;
+    --starlight-color: #FFFFFF;
+
+    /* ==========================
+       GLOW STRENGTH
+    ========================== */
+
+    --glow-soft: 10px;
+    --glow-medium: 20px;
+    --glow-strong: 40px;
+
+    /* ==========================
+       TEXT
+    ========================== */
+
+    --primary-text: #F5F7FB;
+    --secondary-text: #9AA8BF;
+
+    /* ==========================
+       STATUS
+    ========================== */
+
+    --online: #32D583;
+    --warning: #F6C244;
+    --danger: #FF5B5B;
+
+    /* ==========================
+       SPACING
+    ========================== */
+
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 2rem;
+    --space-xl: 4rem;
+
+    /* ==========================
+       BORDER RADIUS
+    ========================== */
+
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-round: 50%;
+
+    /* ==========================
+       BORDERS
+    ========================== */
+
+    --glass-border: rgba(255, 255, 255, 0.12);
+    --panel-border: rgba(103, 199, 255, 0.15);
+
+    /* ==========================
+       DEPTH
+    ========================== */
+
+    --panel-shadow: 0 0 30px rgba(0, 0, 0, 0.35);
+    --glow-shadow: 0 0 30px rgba(66, 216, 255, 0.35);
+
+    /* ==========================
+       EFFECTS
+    ========================== */
+
+    --glass-blur: 18px;
+
+    /* ==========================
+       TRANSITIONS
+    ========================== */
+
+    --transition-fast: 0.2s;
+    --transition-normal: 0.4s;
+    --transition-slow: 0.8s;
+
+    /* ==========================
+       TYPOGRAPHY
+    ========================== */
+
+    --heading-font: "Orbitron", sans-serif;
+    --body-font: "Inter", sans-serif;
+    --mono-font: "JetBrains Mono", monospace;
+
+}
